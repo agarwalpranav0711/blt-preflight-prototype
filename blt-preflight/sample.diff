@@ -1,0 +1,14 @@
+diff --git a/test1.txt b/test1.txt
+new file mode 100644
+index 0000000..8b13789
+--- /dev/null
++++ b/test1.txt
+@@ -0,0 +1 @@
++This is a newly added line in file 1.
+diff --git a/test2.txt b/test2.txt
+index e69de29..e69de29 100644
+--- a/test2.txt
++++ b/test2.txt
+@@ -1,2 +0,0 @@
+-This line is deleted from file 2.
+-This line is also deleted.
